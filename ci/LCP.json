@@ -31,11 +31,11 @@
     "failureThreshold": 12
   },
   "env": {
-    "JENKINS_ADMIN_USER_NAME": "lctreliancegeneral",
-    "JENKINS_URL": "https://ci-lctreliancegeneral-infra.lfr.cloud",
+    "JENKINS_ADMIN_USER_NAME": "lctlic",
+    "JENKINS_URL": "https://ci-lctlic-infra.lfr.cloud",
     "LCP_CI_DEPLOY_TARGET": "",
-    "LCP_CI_SCM_REPOSITORY_NAME": "lctreliancegeneral",
-    "LCP_CI_SCM_REPOSITORY_OWNER": "dxpcloud"
+    "LCP_CI_SCM_REPOSITORY_NAME": "lic",
+    "LCP_CI_SCM_REPOSITORY_OWNER": "shubhamsrivastava16"
   },
   "environments": {
     "infra": {
